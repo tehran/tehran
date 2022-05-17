@@ -6,8 +6,8 @@
 - 🔭  I’m currently working as **DevOps Engineer** at **Eurodesign CSC** which is **Azerbaijanian Integration company**.
 - 🌱  I’m currently learning **Personal Management**
 - 💬  Ask me about **System techs, Network techs, DevOPS techs**
-- 📫  tehran@kernel.az, tehran.guluzade@eurodesign.az
-- 👉  https://kernel.az
+- 📫  tehran.guluzade@eurodesign.az
+- 👉  https://guluzade.az
 
 ### Connect with me:
 [<img align="left" alt="tehran.guluzade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/tehranguluzade)
