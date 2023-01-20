@@ -7,7 +7,7 @@
 - 🌱  I’m currently learning **Cloud Technologies**
 - 💬  Ask me about **System techs, Network techs, DevOPS techs**
 - 📫  tehran.guluzade@outlook.com
-- 👉  https://terransible.com
+- 👉  https://scrypter.dev
 
 ### Connect with me:
 [<img align="left" alt="tehran.guluzade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/tehranguluzade)
