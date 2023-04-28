@@ -6,7 +6,8 @@
 - 🔭  I’m currently working as **DevOps Team Lead** at **Eurodesign CSC** which is **Azerbaijanian Integration company**.
 - 🌱  I’m currently learning **Cloud Technologies**
 - 💬  Ask me about **System techs, Network techs, DevOPS techs**
-- 📫  tehran.guluzade@outlook.com
+- 📫  tehran@powershell.az
+- 📫  tehran@vmware.az
 - 👉  https://powershell.az
 
 ### Connect with me:
