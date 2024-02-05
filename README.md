@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
 
-- 🔭  I’m currently working as **DevOps Team Lead** at **Eurodesign CSC** which is **Azerbaijanian Integration company**.
+- 🔭  I’m currently working as **System/DevOps Engineer** at **Azercell LLC** which is **Azerbaijani telecommunications company**.
 - 🌱  I’m currently learning **Cloud Technologies**
 - 💬  Ask me about **System techs, Network techs, DevOPS techs**
 - 📫  tehran@guluzade.net
